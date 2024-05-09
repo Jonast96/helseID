@@ -6,7 +6,10 @@
 
 - Innlogging til HelseID Selvbetjening: https://selvbetjening.test.nhn.no/login
 
+
+## Innlogging
 - Eksempel kode til innlogging: https://github.com/NorskHelsenett/HelseID.Samples/tree/master/ApiAccess
+- dotnet run
 
 
 ## Mål
