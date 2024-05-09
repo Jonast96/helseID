@@ -13,4 +13,4 @@
 
 - Innlogging via HelseID og lagre token
 
-- RenewToken, mulig løsning?: 
+- RenewToken, mulig løsning?: https://helseid.atlassian.net/wiki/spaces/HELSEID/pages/545423361/Token+Exchange+for+API-eiere+og+arkitekter
