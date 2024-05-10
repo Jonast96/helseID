@@ -9,7 +9,7 @@
 
 ## Innlogging
 - Eksempel kode til innlogging: https://github.com/NorskHelsenett/HelseID.Samples/tree/master/ApiAccess
-- dotnet run
+- SampleApi: https://github.com/NorskHelsenett/HelseID.Samples/tree/master/SampleApi
 
 
 ## Mål
