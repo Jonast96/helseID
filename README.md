@@ -8,12 +8,18 @@
 
 
 ## Innlogging
-- Eksempel kode til innlogging: https://github.com/NorskHelsenett/HelseID.Samples/tree/master/ApiAccess
+- Eksempel kode til innlogging og henting av Refreshtoken + Accesstoken: https://github.com/NorskHelsenett/HelseID.Samples/tree/master/ApiAccess
+
+
+```
+cd ApiAccess
+
+dotnet run
+```
+
 - SampleApi: https://github.com/NorskHelsenett/HelseID.Samples/tree/master/SampleApi
 
 
 ## Mål
 
-- Innlogging via HelseID og lagre token
-
-- RenewToken, mulig løsning?: https://helseid.atlassian.net/wiki/spaces/HELSEID/pages/545423361/Token+Exchange+for+API-eiere+og+arkitekter
+- mulig løsning for lengre innlogging?: https://helseid.atlassian.net/wiki/spaces/HELSEID/pages/545423361/Token+Exchange+for+API-eiere+og+arkitekter
